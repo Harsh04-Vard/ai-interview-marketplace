@@ -10,6 +10,23 @@ A full-stack AI-powered mock interview platform that helps users practice techni
 
 ---
 
+## 📷 Preview
+
+### 🏠 Homepage
+
+<img width="1333" height="527" alt="image" src="https://github.com/user-attachments/assets/43e3abe3-d88e-4ee1-823c-c24245ad0f75" />
+
+### 🎥 Live Appoinment Screen
+
+<img width="1321" height="518" alt="image" src="https://github.com/user-attachments/assets/f602c1e0-5eb4-45b7-b034-21740ecbd22f" />
+
+
+### 🤖 AI Question Flow
+
+<img width="1363" height="554" alt="image" src="https://github.com/user-attachments/assets/8064abec-c501-45f9-8b6b-02f6e8576909" />
+
+---
+
 ## ✨ Features
 
 * 🤖 AI-powered interview questions (Groq LLaMA)
